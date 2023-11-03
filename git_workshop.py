@@ -4,11 +4,11 @@ import math
 # rename your function
 def func1(num_a):
     # placeholder return, replace with your own function
-    return -1
+    return -2
 
 def func2(num_b):
     # placeholder return, replace with your own function
-    return -1
+    return -2
 
 # both people should modify this function
 def func3(num_a, num_b):
